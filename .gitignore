@@ -1,0 +1,12 @@
+target/
+.venv/
+orchestrator/.venv/
+__pycache__/
+.pytest_cache/
+.env
+*.pyc
+.idea/
+.vscode/
+monitoring/metrics_token
+.agentic-workspaces/
+orchestrator.log

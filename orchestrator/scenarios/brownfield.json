@@ -1,0 +1,4 @@
+{
+  "scenario": "BROWNFIELD",
+  "requirement": "Enhance the existing URL shortener to support expiration without breaking existing redirect behavior."
+}

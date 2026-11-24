@@ -1,0 +1,4 @@
+{
+  "scenario": "GREENFIELD",
+  "requirement": "Build a URL shortener with URL creation, redirection, custom aliases, expiration and click analytics."
+}
